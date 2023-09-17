@@ -32,13 +32,6 @@
                     </nomatch>
                 </nomatch>
             </li>
-
-            <li Class="PatchOperationReplace" MayRequire="vanillaracesexpanded.highmate">
-                <xpath>/Defs/XenotypeDef[defName="VRE_Lowmate"]/genes/li[text()="VRE_Libido_VeryHigh"]</xpath>
-                <value>
-                    <li>Libido_VeryHigh</li>
-                </value>
-            </li>
         </operations>
     </Operation>
 </Patch>
